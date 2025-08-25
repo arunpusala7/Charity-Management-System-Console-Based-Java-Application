@@ -23,7 +23,7 @@ Technologies Used :
 -DAO Pattern for structured and maintainable code
 -ResourceBundle for database configuration
 
-Impact & Vision
+Impact & Vision :
 This project highlights proficiency in Java programming and database connectivity, showing the ability to design scalable backend systems. 
 By automating charity workflows, it helps nonprofits focus more on their mission. With further development, it can evolve into a full-fledged enterprise-grade application.
 
